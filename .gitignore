@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset or output folders (exclude large files)
+datasets/
+output/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
