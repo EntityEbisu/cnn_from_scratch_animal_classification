@@ -140,8 +140,7 @@ Choose either:
 Made by **Nguyễn Trọng Minh** for the **Finpros Data Scientist Internship Test**.
 
 For questions or collaborations:  
-📧 nguyentrongminh.dev@gmail.com  
-🌐 [linkedin.com/in/nguyentrongminh](https://www.linkedin.com/in/nguyentrongminh)
+📧 tminh193.bil@gmail.com 
 
 ---
 
